@@ -1,10 +1,11 @@
 books { 
+	text-align: center;
 	color: white; 
 	background-color : gray; 
 	width: 100%; 
 } 
 heading { 
-	color: rgb(8, 157, 8); 
+	color: rgb(129, 141, 129); 
 	font-size : 40px; 
 	background-color : powderblue; 
 } 
